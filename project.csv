@@ -1,0 +1,5 @@
+"Roles,Instructions",
+"Road Damage Agent,covers the YOLO pothole and crack detection 0.45 confidence threshold repair priority and work orders.",
+"Traffic Agent,covers conestion prediction 15 to 30 minutes ahead least-traffic routing and ambulance priority.",
+"Accident Hospital Agent,covers impact detection the 10 second cancel window and alterting the nearest free hospital.",
+"Drainage Agent,covers water-level and flow sensing blockage location and monsoon flood warnings.",
